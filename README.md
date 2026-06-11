@@ -119,7 +119,7 @@ If you found this project useful, consider giving it a ⭐ on GitHub!
 
 **Jotiprova Mitra**
 
-🎓 3rd Year Computer Science Engineering Student
+🎓 Computer Science Engineering Student
 
 💻 Python | AI | Machine Learning | NLP
 
